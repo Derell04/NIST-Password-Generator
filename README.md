@@ -1,7 +1,7 @@
 ABOUT THE PROGRAM:
 ----------------------------------------------------------------------------------------------------------
 
-Generates a secure passowrd in accordance with NIST SP 800-63B.
+Generates a secure password in accordance with NIST SP 800-63B.
 
 Password Requirements:
   - MUST HAVE AT LEAST 8 CHARACTERS
